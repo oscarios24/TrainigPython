@@ -54,3 +54,4 @@ print(f"""Print the first matrix: {matix[0]}""")
 print(f"""Print the second value of the second matrix: {matix[1][1]}""")
 #Applaying slaicing
 print(f"""Print the first and the second value of the second matrix: {matix[1][0:2]}""")
+print(f"""Print the first and the second value of the second matrix: {matix[2][0:2]}""")
